@@ -1,2 +1,2 @@
 # SIMDSimulatorChallenge
- Challenge from the subject of Computer Programming, at UFERSA.
+ Challenge from the discipline of Computer Programming, at UFERSA.
